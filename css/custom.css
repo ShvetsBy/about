@@ -1,0 +1,58 @@
+h1, h2, h3, h4, h5, h6 {
+
+	font-family: 'PT Sans Narrow', sans-serif;
+	color: #B82835;
+
+}
+
+p {
+font-size: 120% ;
+line-height: 140%;
+font-family: 'PT Serif', serif;
+
+}
+
+p.down
+
+{
+margin-bottom: 60px !important;	
+}
+
+.head {
+margin-top: -20px !important;
+}
+
+p.small{
+	margin-bottom: -10px !important;	
+}
+
+.fact {
+
+margin-top: 20px !important;
+}
+
+.fact1 {
+
+margin-top: 20px !important;
+}
+
+
+.fin {
+margin-bottom: 100px !important;	
+
+}
+
+.line { 
+     border-left: 4px solid #B82835; /* Параметры линии */ 
+     
+     padding-left: 10px; /* Расстояние от линии до текста */ 
+    }
+
+
+
+ul {
+font-size: 100%;
+/*font-family: 'Russo One', sans-serif;*/
+font-family: 'Jura', sans-serif;
+/*font-family: 'Prosto One', cursive;*/
+}
